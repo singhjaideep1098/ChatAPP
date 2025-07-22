@@ -80,12 +80,7 @@ python3 app.py
 python app.py
 ```
 
-## Live Demo
-Check out the live demo of the application [here](https://chatapp-usingpython.onrender.com/).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or support, please contact me at [your-email@example.com](bhwneetsingh2004@gmail.com).
+For any questions or support, please contact me at [dhunnajaideepsingh@gmail.com](dhunnajaideepsingh@gmail.com).
 
